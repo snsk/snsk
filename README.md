@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a test engineer who loves anything to do with software. Especially web and mobile are my favorite.
+
 <!--
 **snsk/snsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
